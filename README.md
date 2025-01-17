@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel, Node.js, and advanced JavaScript frameworks like Vue.js and React.
 - 💞️ I’m looking to collaborate on web development projects, especially ones that involve creating modern, scalable, and user-friendly web applications.
 - 📫 How to reach me: 
-  - Email: your-email@example.com
+  - Email: ibedeskun@gmail.com
   - LinkedIn: -
   - Portfolio: (https://bento.me/ibedes)
 - 😄 Pronouns: He/Him
