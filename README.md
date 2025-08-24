@@ -1,54 +1,51 @@
-# 🎮 Welcome to Muji's Dev Quest
+# 🕹️ 0xMuji // ibedestudio
 
-   ╔══════════════════════╗
-   ║   PLAYER: @ibedestudio║
-   ║   CLASS : Web Dev     ║
-   ║   LEVEL : 25+         ║
-   ║   STATUS: Coding...   ║
-   ╚══════════════════════╝
 
 ---
 
-## 🗡️ Skills & Abilities
-- ⚔️ **Frontend Sword** → React, Vue.js, TailwindCSS, Bootstrap  
-- 🛡️ **Backend Shield** → Laravel, Node.js, MySQL  
-- 🎨 **Design Potion** → UI/UX, Wireframing, Figma  
-- 🧭 **Explorer Tools** → Git, Linux, VS Code, Postman  
+## 🎮 Player Info
+- 👾 **Name:** Muji (@ibedestudio)  
+- 🎯 **Role:** Frontend Developer / UI Designer  
+- 🏆 **Special Power:** Turning retro vibes into modern web apps  
+- 📡 **Current Mission:** Mastering React, Vue.js & Laravel  
 
 ---
 
-## 📜 Current Quest
-- 🌱 Train in **advanced JavaScript & frameworks**  
-- 🔥 Build scalable & user-friendly **web apps**  
-- 🤝 Collaborate on **open source adventures**  
+## 💾 Tech Inventory
+[★] HTML / CSS / JavaScript
+[★] React / Vue.js
+[★] Laravel / Node.js
+[★] Tailwind / Bootstrap
+[★] UI/UX Design (Figma, Wireframes)
+
 
 ---
 
-## 🏆 Achievements Unlocked
-- 🎮 Designed a **Retro Pixel Website** with GameBoy vibes  
-- 📝 Contributed to **open source projects**  
-- 📊 Built **Dashboard UI Clones** with React & TailwindCSS  
+## 🏹 Active Quests
+- ⚡ Build modern, scalable, and user-friendly **web apps**  
+- 🎨 Create **retro-inspired UI/UX** with pixel vibes  
+- 🤝 Collaborate in **open-source missions**  
 
 ---
 
-## 💌 How to Party Up
-- 📧 [ibedeskun@gmail.com](mailto:ibedeskun@gmail.com)  
-- 🌐 [Portfolio](https://bento.me/ibedes)  
+## 📺 Retro Stats Screen
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibedestudio&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibedestudio&layout=compact&theme=tokyonight&hide_border=true)  
+
+---
+
+## 🎵 Buffs & Power-ups
+- ☕ Coffee = +10 Debugging  
+- 🎧 Lo-fi = +15 Focus  
+- 🎮 Retro Games = +20 Creativity  
+
+---
+
+## 📨 Insert Coin to Connect
+- 📧 Email: [ibedeskun@gmail.com](mailto:ibedeskun@gmail.com)  
+- 🌐 Portfolio: [bento.me/ibedes](https://bento.me/ibedes)  
 - 🐦 Twitter: [@0xMuji](https://twitter.com/0xMuji)  
 
 ---
 
-## ⚡ Character Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibedestudio&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibedestudio&layout=compact&theme=radical)  
-
----
-
-## 🎶 Fun Buffs
-- ☕ +10 Debug Power with Coffee  
-- 🎧 +15 Focus with Lo-Fi Beats  
-- 🎮 +20 Creativity with Retro Games  
-
----
-
-✨ *Press **Start** to Begin Collaboration!* ✨
+✨ *GAME OVER? Nah... this journey just started!* ✨
