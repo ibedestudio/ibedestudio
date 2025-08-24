@@ -4,10 +4,13 @@
 
   <!-- Title Screen / Banner -->
 
-  <pre style="background:#0a0a0a; color:#00ff9c; padding:18px 14px; border:4px solid #00ff9c; border-radius:16px; line-height:1.15; font-weight:700; font-size:14px; overflow:auto;">
-┌─────────────────────────────────────────────┐
-│                 I  B  E  D  E  S           │
-└─────────────────────────────────────────────┘
+  <pre style="background:#0a0a0a; color:#00ff9c; padding:18px 14px; border:4px solid #00ff9c; border-radius:16px; line-height:1.3; font-weight:700; font-size:14px; overflow:auto;">
+██╗██████╗ ███████╗██████╗ ███████╗███████╗
+██║██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝
+██║██████╔╝█████╗  ██████╔╝█████╗  ███████╗
+██║██╔═══╝ ██╔══╝  ██╔═══╝ ██╔══╝  ╚════██║
+██║██║     ███████╗██║     ███████╗███████║
+╚═╝╚═╝     ╚══════╝╚═╝     ╚══════╝╚══════╝
                 0xMuji // @ibedestudio
 </pre>
 
