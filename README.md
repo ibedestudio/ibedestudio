@@ -1,63 +1,70 @@
-<!-- GitHub Profile README | IBEDES -->
+<!-- Retro README | IBEDES -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="retro-banner"/>
+██╗██████╗ ███████╗██████╗ ███████╗
+██║██╔══██╗██╔════╝██╔══██╗██╔════╝
+██║██████╔╝█████╗ ██████╔╝███████╗
+██║██╔═══╝ ██╔══╝ ██╔═══╝ ╚════██║
+██║██║ ███████╗██║ ███████║
+╚═╝╚═╝ ╚══════╝╚═╝ ╚══════╝
+0xMuji // @ibedestudio
 
-██╗██████╗ ███████╗███████╗███████╗███████╗
-██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔════╝
-██║██████╔╝█████╗ █████╗ █████╗ ███████╗
-██║██╔═══╝ ██╔══╝ ██╔══╝ ██╔══╝ ╚════██║
-██║██║ ███████╗███████╗███████╗███████║
-╚═╝╚═╝ ╚══════╝╚══════╝╚══════╝╚══════╝
 
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Frontend+Developer;UI%2FUX+Designer;Retro+Pixel+Vibes+%2B+Modern+Web+Apps" />
 
-✨ *“Exploring Technology in Retro Pixel Vibes”* ✨
+---
 
+### ⚡ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vue.js&logoColor=42B883)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+---
+
+### 👾 Player Profile
+- **Name:** Muji (0xMuji)  
+- **Role:** Frontend Developer × UI Designer  
+- **Special:** Retro pixel aesthetics × modern performance  
+- **Currently Training:** React, Vue.js, Laravel  
+
+---
+
+### 🎯 Quests
+- ✅ Build **Retro Pixel Website**  
+- ✅ Create **Dashboard UI Clones**  
+- ✅ Contribute to **Open Source**  
+- 🔄 Launch **Mini-game Landing Page**  
+- 🔄 Ship **Scalable Web App**  
+
+---
+
+### 📊 Status
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibedestudio&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibedestudio&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
 ---
 
-## 🕹️ About Me
-- 👨‍💻 **Frontend Dev in the making** → JavaScript, CSS, HTML  
-- 🎨 Love **Pixel Art + Retro UI Design**  
-- 📚 Sharing **Tech from old-school to AI era**  
-- 🚀 Building my identity as **0xMuji / IBEDES**  
+### 🔮 Featured Projects
+- 🎮 **Retro Pixel Website**  
+- 📊 **Dashboard UI Clone**  
+- 📝 **Open Source Contributions**  
+- 🌐 More → [Portfolio](https://bento.me/ibedes)
 
 ---
 
-## ⚡ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-
----
-
-## 📊 Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibedestudio&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibedestudio&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎮 Featured Projects
-- 🕹️ **Retro Portfolio** → Like an old game start screen  
-- 🎨 **Pixel UI Kit** → Components in monochrome pixel style  
-- 📡 **Tech Capsule** → Blog about retro to modern tech  
-
----
-
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/ibedes_studio)  
-[![TikTok](https://img.shields.io/badge/-TikTok-000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@ombella)  
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:ibedesstudio@gmail.com)  
+### 🎵 Buffs
+- ☕ Coffee = +10 Debugging  
+- 🎧 Lo-fi = +15 Focus  
+- 🎮 Retro Games = +20 Creativity  
 
 ---
 
 <div align="center">
-
-```ascii
-[ PRESS START ] → Enter the World of IBEDES
-
-</div> ```
+  <sub>🖤 Crafted with pixels & powered by ☕</sub>
+</div>
