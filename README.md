@@ -1,15 +1,54 @@
-- 👋 Hi, I’m @ibedestudio
-- 👀 I’m interested in Web Development, UI/UX Design, and Open Source Projects.
-- 🌱 I’m currently learning Laravel, Node.js, and advanced JavaScript frameworks like Vue.js and React.
-- 💞️ I’m looking to collaborate on web development projects, especially ones that involve creating modern, scalable, and user-friendly web applications.
-- 📫 How to reach me: 
-  - Email: ibedeskun@gmail.com
-  - LinkedIn: -
-  - Portfolio: (https://bento.me/ibedes)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can debug better with a cup of coffee and some lo-fi music!
+# 🎮 Welcome to Muji's Dev Quest
 
-<!---
-ibedestudio/ibedestudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   ╔══════════════════════╗
+   ║   PLAYER: @ibedestudio║
+   ║   CLASS : Web Dev     ║
+   ║   LEVEL : 25+         ║
+   ║   STATUS: Coding...   ║
+   ╚══════════════════════╝
+
+---
+
+## 🗡️ Skills & Abilities
+- ⚔️ **Frontend Sword** → React, Vue.js, TailwindCSS, Bootstrap  
+- 🛡️ **Backend Shield** → Laravel, Node.js, MySQL  
+- 🎨 **Design Potion** → UI/UX, Wireframing, Figma  
+- 🧭 **Explorer Tools** → Git, Linux, VS Code, Postman  
+
+---
+
+## 📜 Current Quest
+- 🌱 Train in **advanced JavaScript & frameworks**  
+- 🔥 Build scalable & user-friendly **web apps**  
+- 🤝 Collaborate on **open source adventures**  
+
+---
+
+## 🏆 Achievements Unlocked
+- 🎮 Designed a **Retro Pixel Website** with GameBoy vibes  
+- 📝 Contributed to **open source projects**  
+- 📊 Built **Dashboard UI Clones** with React & TailwindCSS  
+
+---
+
+## 💌 How to Party Up
+- 📧 [ibedeskun@gmail.com](mailto:ibedeskun@gmail.com)  
+- 🌐 [Portfolio](https://bento.me/ibedes)  
+- 🐦 Twitter: [@0xMuji](https://twitter.com/0xMuji)  
+
+---
+
+## ⚡ Character Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibedestudio&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibedestudio&layout=compact&theme=radical)  
+
+---
+
+## 🎶 Fun Buffs
+- ☕ +10 Debug Power with Coffee  
+- 🎧 +15 Focus with Lo-Fi Beats  
+- 🎮 +20 Creativity with Retro Games  
+
+---
+
+✨ *Press **Start** to Begin Collaboration!* ✨
